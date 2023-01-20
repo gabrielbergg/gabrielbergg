@@ -37,6 +37,6 @@
 </p>
 
 [website]: https://Gabsop.github.io/portfolio/
-[instagram]: https://www.instagram.com/gabrielsantana.png/
-[linkedin]: https://www.linkedin.com/in/Gabrielsop/
+[instagram]: https://instagram.com/_gabrielberg?igshid=YmMyMTA2M2Y=
+[linkedin]: https://www.linkedin.com/in/gabriel-bergg/
 [email]: mailto:gabsop@hotmail.com
