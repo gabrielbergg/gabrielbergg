@@ -1,12 +1,42 @@
-### Hi there 👋
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
+
+<img src="https://i.pinimg.com/originals/78/5a/1b/785a1b9c359640da6bc9cfe3670b42ba.png" width="400px" align="right" alt="Computador Gabriel Santana">
+
+<p align="left"> 
+  <ul>
+    <li>🎓 &nbsp; Studying Software Engineering at UFRN.</li>
+    <li>📘 &nbsp; Learning more about React and React Native</li>
+    <li>❤️ &nbsp; Games | Series / Anime | Calisthenics</li>
+  </ul>
+</p>
+
+<p align="left">
+  🚀 Frontend: <strong>Javascript, Reactjs, Vuejs,HTML, CSS</strong>  
+</p>
+<p align="left">
+  💻 Backend: <strong>Node, Postgres, SQL, Java</strong>
+</p>
+
+<p align="left">
+💼 Other skills: <strong>Dart, Microservices, Clean Arquitecture</strong>
+</p>
+
+#### Connect with me:
+
+<!-- [<img align="left" alt="gabrielsantana | Website" src="https://img.shields.io/badge/Website-gabrielsantana-blue?style=flat-square&logo=google-chrome" />][website] -->
+[<img align="center" alt="gabrielsantana | Instagram" src="https://img.shields.io/badge/Instagram-gabrielsantana.png-blue?style=flat-square&logo=instagram" />][instagram]
+[<img align="center" alt="gabrielsantana | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gabriel%20Santana%20-blue?style=flat-square&logo=linkedin" />][linkedin]
+[<img align="center" alt="gabrielsantana | Email" src="https://img.shields.io/badge/Email-gabsop@hotmail.com-blue?style=flat-square&logo=gmail" />][email]
+
+<br />
+<br />
+
+<!-- <img align="left" alt="gabrielsantana's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabrielsantana&show_icons=true&hide_border=true&hide=contribs&theme=dracula" /> -->
+<p align="center">
+  <img alt="gabrielsantana's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabsop&layout=compact&langs_count=6&hide_border=true&theme=dracula" />
+</p>
+
+[website]: https://Gabsop.github.io/portfolio/
+[instagram]: https://www.instagram.com/gabrielsantana.png/
+[linkedin]: https://www.linkedin.com/in/Gabrielsop/
+[email]: mailto:gabsop@hotmail.com
