@@ -8,10 +8,10 @@
 
 <p align="center">
 <a href="https://github.com/gabrielbergg/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielbergg&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielbergg&bg_color=fffff0&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a>
 <a href="https://github.com/gabrielbergg/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielbergg&theme=dracula&area=true&color=red&hide_border=true#gh-dark-mode-only" width="100%">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielbergg&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
 </p>
 
